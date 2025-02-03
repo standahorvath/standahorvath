@@ -16,15 +16,15 @@ I'm a **Senior Web Developer** with a passion for building scalable and efficien
 - Create **seamless user experiences**
 - Optimize databases and backend performance
 - Mentor and support development teams
+- Writing articles
 
-## 📂 My Projects
+## 📂 My OpenSource projects for you
 - [**PageBuilderJS**](https://github.com/standahorvath/PageBuilderJS) - A lightweight and flexible Block Builder for building web pages with ease.
 - [**TemplifyJS**](https://github.com/standahorvath/TemplifyJS) - A simple JavaScript templating engine for rendering dynamic content easily.
 - [**Webcrawler**](https://github.com/standahorvath/Webcrawler) - A multi-functional web crawler for analyzing and scraping websites.
 - [**Wordpress-Docker**](https://github.com/standahorvath/Wordpress-Docker) - A ready-to-use Docker container setup for Wordpress development.
 
-## 📝 My Articles
-
+## 📝 I put my knowledge into articles
 Check out my latest articles on web development, best practices, and tech insights:
 
 - **[How to set up a cookie bar correctly?](https://standa.tonakodi.cz/knowledge/how-to-set-up-a-cookie-bar-correctly)** (January 2, 2025) – We will look at the basic mistakes when implementing the cookie bar and how to address them correctly. We will show you two open-source solutions that will make your job much easier.
